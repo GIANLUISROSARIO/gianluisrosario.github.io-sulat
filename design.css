@@ -1,0 +1,31 @@
+.kanan {
+    float: right;
+    
+    
+}
+
+.kaliwa{
+    float: left;
+    
+    
+    
+}
+
+#kaliwa{
+
+    width: 21em;
+    height: 100vh;
+}
+
+#kanan{
+    
+    
+    background-color: #050100;
+}
+
+body{
+    background-color: #050100;
+    font-family: Cormorant Garamond;
+    color: black;}
+    a {
+        color: white;}
